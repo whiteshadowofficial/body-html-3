@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/whiteshadowofficial/body-html-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Setup Jessi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+ >🦋 First create a Github account.
+  
+----
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/github.md"><img src="https://img.shields.io/badge/Create-Github Account-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+----
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> 🦋 Now create a Heroku account. Select Node js as your programming language
+  
 
-### Jekyll Themes
+----
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whiteshadowofficial/body-html-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Heroku.md"><img src="https://img.shields.io/badge/Create-Heroku Account-ff0000?style=for-the-badge&logo=heroku&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+----
+
+
+> 🦋 After Scan Jessi MD QR for Whatsapp Multi device beta (24 Hour Activation)
+  
+ 
+-----
+
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/replit.md"><img src="https://img.shields.io/badge/Get Qr-Using Replit     .-ff0000?style=for-the-badge&logo=replit&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+
+----
+
+
+> 🦋 After fork this repo Clicking Hear and replace your session.js on it
+   
+  
+----
+
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/fork.md"><img src="https://img.shields.io/badge/Fork  .-My Repository  .-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+
+----
+
+
+> 🦋 Then click on the Deploy App button and add app name 
+  
+
+----
+
+
+> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/heroku_deploy.md"><img src="https://img.shields.io/badge/Deploy-Bot To heroku  .-ff0000?style=for-the-badge&logo=heroku&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+
+----
+ 
+
+> 🦋 After click deploy app button 
+   
+> 🦋 wait for 30 Seconds to finish deploy (Do not let the screen turn off without switching to other apps ⚠️)
+  
+> 🦋 Then go to the Manage app.
+   
+> 🦋 Then go to Resources and turn on worker ✏️ 
+  
+> 🦋 Then go More > View logs and Once loaded, open your WhatsApp and keep it online
+
